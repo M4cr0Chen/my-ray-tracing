@@ -1,3 +1,0 @@
-/Users/marcochen/code/rayTracing/build/CMakeFiles/rayTracing.dir
-/Users/marcochen/code/rayTracing/build/CMakeFiles/edit_cache.dir
-/Users/marcochen/code/rayTracing/build/CMakeFiles/rebuild_cache.dir
